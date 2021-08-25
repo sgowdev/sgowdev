@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate with startups
 - 📫 How to reach me dev.sgowen@gmail.com
-- Resume hosted [here] (https://registry.jsonresume.org/sgowdev)
+- Resume hosted [here](https://registry.jsonresume.org/sgowdev)
 - I'm also an Indie Game Dev! https://github.com/sgowindie
 
 <!---
