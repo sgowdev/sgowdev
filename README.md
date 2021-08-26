@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a professional software engineer, up to any task that involves code!
-- 👀 I’m interested in building apps from scratch for startups
+- 👋 Hi, I’m Stephen Gowen, professional software engineer, up to any task that involves code!
+- 👀 I’m interested in building apps from the ground up for startups
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate with startups
 - 📫 How to reach me dev.sgowen@gmail.com
