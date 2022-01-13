@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Gowen, professional software engineer, up to any task that involves code!
 - 👀 I’m interested in building apps from the ground up for startups
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Flutter, because it's the first cross-platform solution that is built for the long term
 - 💞️ I’m looking to collaborate with startups
 - 📫 How to reach me dev.sgowen@gmail.com
 - Resume hosted [here](https://registry.jsonresume.org/sgowdev)
