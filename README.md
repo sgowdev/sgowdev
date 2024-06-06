@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with startups
 - 📫 How to reach me dev.sgowen@gmail.com
 - Resume hosted [here](https://registry.jsonresume.org/sgowdev)
-- I'm also an Indie Game Dev! https://github.com/sgowen
+- I'm also a Game Developer! https://github.com/sgowen
 
 <!---
 sgowdev/sgowdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
